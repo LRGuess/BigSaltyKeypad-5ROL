@@ -15,6 +15,17 @@ This keypad comes together by sandwiching the PCB between the bottom and top par
      alt="BigSaltyKeypad CAD"
      width="600"
      height="500">  
+### Case parts and assembly:
+Case:  
+<img src="https://github.com/LRGuess/BigSaltyKeypad-5ROL/blob/main/Assets/Case.png" 
+     alt="BigSaltyKeypad CAD"
+     width="600"
+     height="500">  
+Assembly:  
+<img src="https://github.com/LRGuess/BigSaltyKeypad-5ROL/blob/main/Assets/Assembly.gif" 
+     alt="BigSaltyKeypad CAD"
+     width="600"
+     height="500">  
 
 ## PCB
 My PCB was designed in KiCAD, feel free to take a look at the designes below!  
